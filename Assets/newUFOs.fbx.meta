@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 36f553be771c5ab499f10088c831a4c5
-timeCreated: 1511721109
+guid: 7b95e0ffe59772d4ca2e2efbd19a931b
+timeCreated: 1511975567
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -27,8 +27,8 @@ ModelImporter:
     100038: Bone.011
     100040: Bone.012
     100042: Bone.012_end
-    100044: UFO
-    100046: //RootNode
+    100044: //RootNode
+    100046: UFO
     400000: arm1
     400002: arm2
     400004: arm3
@@ -51,8 +51,8 @@ ModelImporter:
     400038: Bone.011
     400040: Bone.012
     400042: Bone.012_end
-    400044: UFO
-    400046: //RootNode
+    400044: //RootNode
+    400046: UFO
     2300000: UFO
     3300000: UFO
     4300000: arm3
@@ -61,6 +61,7 @@ ModelImporter:
     4300006: arm4
     4300008: UFO
     7400000: Armature|catch
+    7400002: Armature|open
     9500000: //RootNode
     13700000: arm1
     13700002: arm2
